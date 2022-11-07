@@ -1,0 +1,42 @@
+body {
+    background-image: url("/img/page-background.jpg");
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: rgb(150, 55, 55);
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+nav.navbar {
+    background-color: rgb(244, 135, 67);
+}
+
+.navbar-light {
+    color: #000;
+}
+
+img {
+   border-top-left-radius: 1rem;
+   border-top-right-radius: 1rem;
+   opacity: 100%; 
+}
+
+.imgBorder {
+    border-radius: 1rem;
+}
+
+h3 {
+    color: #fff;
+}
+
+.info {
+    margin-bottom: 50px;
+}
+
+.site-footer {
+    background-color: rgb(150, 55, 55);
+}
