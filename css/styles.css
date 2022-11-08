@@ -57,5 +57,14 @@ footer li a {
     color: #000;
 }
 
+.modal-header {
+    background-color: rgb(244, 135, 67);
+}
 
+.modal-body {
+    background-color: lightblue;
+}
 
+.modal-footer {
+    background-color: rgb(244, 135, 67);
+}
